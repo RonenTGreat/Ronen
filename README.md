@@ -1,7 +1,10 @@
-# Hi :wave:, I'm Ronen
+# Hi 👋, I'm Ronen
 
-<div style="display: flex; flex-direction: row;">
-    <div><img style="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RonenTGreat&" alt="RonenTGreat github streak" /></div>
+- 👯 I’m always ready to collaborate with other learners
+- 📚 I'm a learner and I believe books are the key to gaining more knowledge. You can check out I'm currently reading via [Goodreads](https://www.goodreads.com/ronentgreat)
+
+<div style="display: flex; flex-direction: column;">
+    <div><img style="margin-top:10px;" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=RonenTGreat&theme=dark&hide_border=true)](https://git.io/streak-stats" alt="RonenTGreat github streak" /></div>
 </div>
 
 
