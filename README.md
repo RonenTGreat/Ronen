@@ -1,4 +1,4 @@
-# Ronen
+# Hi :wave:, I'm Ronen
 <div style="display: flex; flex-direction: column;">
     <div><img style="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RonenTGreat&" alt="RonenTGreat github streak" /></div>
 </div>
