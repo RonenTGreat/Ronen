@@ -1,6 +1,6 @@
 # Hi :wave:, I'm Ronen
 
-<div style="display: flex; flex-direction: column; theme=dark&hide_border=true">
+<div style="display: flex; flex-direction: row;">
     <div><img style="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RonenTGreat&" alt="RonenTGreat github streak" /></div>
 </div>
 
