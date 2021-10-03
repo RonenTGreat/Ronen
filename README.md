@@ -6,6 +6,11 @@
 - 📚 I'm a learner and I believe books are the key to gaining more knowledge. You can check out I'm currently reading via [Goodreads](https://www.goodreads.com/ronentgreat)
 - <h3>How to reach me?<h3>
 
+<a href="https://twitter.com/Ronen_T_G"><img src="https://github.com/RonenTGreat/RonenTGreat/blob/main/logo-twitter-png-5859.png" width="100px"/></a>
+<a href="mailto:ronenh53@gmail.com?subject=Hello👋, I am..."><img src="https://github.com/RonenTGreat/RonenTGreat/blob/main/Gmail-logo-design-on-transparent-background-PNG.png" width="100px"/></a>
+
+  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RonenTGreat&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RonenTGreat&theme=solarized_dark)
