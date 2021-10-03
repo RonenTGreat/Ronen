@@ -3,7 +3,7 @@
 
 
 - 👯 I’m always ready to collaborate with other learners
-- 📚 I'm a learner and I believe books are the key to gaining more knowledge. You can check out I'm currently reading via [Goodreads](https://www.goodreads.com/ronentgreat)
+- 📚 I'm a learner and I believe books are the key to gaining more knowledge. You can check out what I'm currently reading via [Goodreads](https://www.goodreads.com/ronentgreat)
 - <h3>How to reach me?<h3>
 
 <a href="https://twitter.com/Ronen_T_G"><img src="https://github.com/RonenTGreat/RonenTGreat/blob/main/Twitter-logo.png.png" width="100px"/></a>
