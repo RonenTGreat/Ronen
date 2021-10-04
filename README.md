@@ -11,10 +11,11 @@
 
   
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RonenTGreat&theme=dark&hide_border=true)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RonenTGreat&theme=monokai&hide_border=true)](https://git.io/streak-stats) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonenTGreat&theme=monokai)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RonenTGreat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonenTGreat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RonenTGreat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RonenTGreat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RonenTGreat&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonenTGreat&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RonenTGreat&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RonenTGreat&theme=monokai)
 
