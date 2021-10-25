@@ -3,7 +3,7 @@
 
 - <p>🦾 I'm familiar with: <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </p> 
 
-- 🌱 I'm currently learning the basics of UI/UX design.
+- 🌱 I'm currently learning Web Development.
 - 🤔 I'm seeking help with increasing my confidence in the langauges I am familiar with.
 - 👯 I’m always ready to collaborate with other learners
 - 📚 I'm a learner and I believe books are the key to gaining more knowledge. You can check out what I'm currently reading via [Goodreads](https://www.goodreads.com/ronentgreat)
