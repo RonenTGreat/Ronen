@@ -26,4 +26,4 @@
 
 ## <p align= "center"> *Music is the language of the spirit. It opens the secret of life bringing peace, abolishing strife. -- Kahlil Gibran*</p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0o83bbalh9vwr0q9n1rxc52l0&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0o83bbalh9vwr0q9n1rxc52l0&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
