@@ -21,8 +21,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RonenTGreat&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonenTGreat&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RonenTGreat&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RonenTGreat&theme=monokai)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonenTGreat&layout=compact&langs_count=10&hide_border=true&count-private=true&theme=monokai))
+
 
 ## <p align= "center"> *Music is the language of the spirit. It opens the secret of life bringing peace, abolishing strife. -- Kahlil Gibran*</p>
 
