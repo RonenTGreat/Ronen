@@ -16,13 +16,13 @@
 
   
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&color=FFFFFF&lines=What+gets+measured+gets+improved!)](https://git.io/typing-svg)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RonenTGreat&theme=monokai&hide_border=true)](https://git.io/streak-stats) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonenTGreat&theme=monokai)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RonenTGreat&theme=calm&hide_border=true)](https://git.io/streak-stats) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonenTGreat&theme=calm)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RonenTGreat&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonenTGreat&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RonenTGreat&theme=monokai)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonenTGreat&layout=compact&langs_count=10&hide_border=true&count-private=true&theme=monokai))
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RonenTGreat&theme=calm)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonenTGreat&theme=calm)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RonenTGreat&theme=calm)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonenTGreat&theme=calm&layout=compact&langs_count=10&hide_border=true&count-private=true)
 
 
 ## <p align= "center"> *Music is the language of the spirit. It opens the secret of life bringing peace, abolishing strife. -- Kahlil Gibran*</p>
