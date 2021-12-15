@@ -13,8 +13,8 @@
 
 
 
-<a href="https://twitter.com/Ronen_T_G"><img src="https://github.com/RonenTGreat/RonenTGreat/blob/main/Twitter-logo.png.png" width="100px"/></a>
-<a href="mailto:ronenhammond@gmail.com?subject=Hello👋, I am..."><img src="https://github.com/RonenTGreat/RonenTGreat/blob/main/Gamil-logo.png.png" width="100px"/></a>
+<a href="https://twitter.com/Ronen_T_G"><img src="https://github.com/RonenTGreat/RonenTGreat/blob/main/twitter%20logo.svg" width="100px"/></a>
+<a href="mailto:ronenhammond@gmail.com?subject=Hello👋, I am..."><img src="https://github.com/RonenTGreat/RonenTGreat/blob/main/gmail-logo.svg" width="100px"/></a>
 <a href="https://www.linkedin.com/in/ronen-hammond/"><img src="https://github.com/RonenTGreat/RonenTGreat/blob/main/linkedin%20logo%20icon.svg" width="100px"/></a>
 
 
