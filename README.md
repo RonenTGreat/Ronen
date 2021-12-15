@@ -11,8 +11,12 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&color=FFFFFF&lines=How+to+reach+me?)](https://git.io/typing-svg)
 
+
+
 <a href="https://twitter.com/Ronen_T_G"><img src="https://github.com/RonenTGreat/RonenTGreat/blob/main/Twitter-logo.png.png" width="100px"/></a>
 <a href="mailto:ronenhammond@gmail.com?subject=Hello👋, I am..."><img src="https://github.com/RonenTGreat/RonenTGreat/blob/main/Gamil-logo.png.png" width="100px"/></a>
+<a href="https://www.linkedin.com/in/ronen-hammond/"><img src="https://github.com/RonenTGreat/RonenTGreat/blob/main/linkedin%20logo%20icon.svg" width="100px"/></a>
+
 
   
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&color=FFFFFF&lines=What+gets+measured+gets+improved!)](https://git.io/typing-svg)
