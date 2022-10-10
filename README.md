@@ -2,7 +2,7 @@
 <img src="https://github.com/RonenTGreat/RonenTGreat/blob/main/quote.gif" width=900" height="500" alt="Programming quote"/>
 
 
-- 🌱 I'm currently learning Adavnce Python.
+- 🌱 I'm currently learning React.
 - 🤔 I'm seeking help with increasing my confidence in the langauges I am familiar with.
 - 👯 I’m always ready to collaborate with other learners
 - 📚 I'm a learner and I believe books are the key to gaining more knowledge. You can check out what I'm currently reading via [Goodreads](https://www.goodreads.com/ronentgreat)
