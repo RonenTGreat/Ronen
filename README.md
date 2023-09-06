@@ -22,7 +22,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&color=FFFFFF&lines=My+Tech+Stack:)](https://git.io/typing-svg)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,react,py,vscode)](https://skillicons.dev)
 
 
   
